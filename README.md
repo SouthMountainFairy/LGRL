@@ -1,5 +1,4 @@
-# LGRL
-LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR
+# LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR
 -----
 [Download](https://ieeexplore.ieee.org/document/10409584 "悬停显示")
 
@@ -9,8 +8,7 @@ On-the-fly Fine-grained sketch-based image retrieval (On-the-fly FG-SBIR) framew
 
 Architecture
 ---
-
-
+![figure3](https://github.com/SouthMountainFairy/LGRL/blob/main/figure3.png)
 An overview of our approach. (a) Stage 1: a conventional FG-SBIR framework with two independent channels; (b) Stage 2: Our proposed LGRL for on-the-fly FG-SBIR problem. The locks signify that the weights are fixed during learning.
 
 
