@@ -1,5 +1,6 @@
 # LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR
 -----
+LGRL@IEEE Transactions on Big Data（TBD）.
 Paper Download Address [PDF](https://ieeexplore.ieee.org/document/10409584 "悬停显示")
 
 Abstract
@@ -10,6 +11,15 @@ Architecture
 ---
 ![figure3](https://github.com/SouthMountainFairy/LGRL/blob/main/figure3.png)
 An overview of our approach. (a) Stage 1: a conventional FG-SBIR framework with two independent channels; (b) Stage 2: Our proposed LGRL for on-the-fly FG-SBIR problem. The locks signify that the weights are fixed during learning.
+
+Datasets and Preprocessing
+---
+
+
+
+Training and Testing
+---
+
 
 
 Citation
