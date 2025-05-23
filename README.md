@@ -1,6 +1,6 @@
 # LGRL: Local-Global Representation Learning for On-the-Fly FG-SBIR
 -----
-[Download](https://ieeexplore.ieee.org/document/10409584 "悬停显示")
+Paper Download Address [PDF](https://ieeexplore.ieee.org/document/10409584 "悬停显示")
 
 Abstract
 ---
